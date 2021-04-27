@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BldcDriver)(type KiCad)(uri ${KIPRJMOD}/BldcDriver.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BldcDriver-rescue)(type Legacy)(uri ${KIPRJMOD}/BldcDriver-rescue.lib)(options "")(descr ""))
+  (lib (name BldcDriver)(type Legacy)(uri ${KIPRJMOD}/BldcDriver.lib)(options "")(descr ""))
+)
