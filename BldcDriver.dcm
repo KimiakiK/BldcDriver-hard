@@ -1,3 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP IR2136S
+D 600V, Vout 10-20V, SOIC-28
+K 3 Phase Gate Driver
+$ENDCMP
+#
+$CMP NJM2884U1
+D Positive 500mA Linear Regulator, Fixed Output 3.3V, SOT-89-5
+K Voltage Regulator 500mA Positive 3.3V
+$ENDCMP
+#
+$CMP STM32F303K8Tx
+D ARM Cortex-M4 MCU, 64KB flash, 12KB RAM, 72MHz, 2-3.6V, 25 GPIO, LQFP-32
+K ARM Cortex-M4 STM32F3 STM32F303
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00092070.pdf
+$ENDCMP
+#
 #End Doc Library
